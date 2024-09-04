@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ViewandLayout</string>
+    <string name="nama_mhs">Farras Ad-Dary</string>
+    <string name="judul">Judul Skripsi</string>
+    <string name="judul_skripsi">Pengembangan Sistem Informasi Penanggulanan Bencana Wabah Berbasis Android</string>
+    <string name="data">Data Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="nim_nim">10521089</string>
+    <string name="kelas">Kelas</string>
+    <string name="kelas_kelas">IS-3</string>
+    <string name="prodi">Prodi</string>
+    <string name="prodi_prodi">Sistem Informasi</string>
+    <string name="todo">TODO</string>
+    <string name="dosen_pembimbing">Dosen Pembimbing</string>
+    <string name="budi_raharjo_m_kom">Budi Raharjo, M.Kom</string>
+    <string name="ubah_data">UBAH DATA</string>
+</resources>
